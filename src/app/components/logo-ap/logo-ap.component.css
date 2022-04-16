@@ -1,7 +1,8 @@
 #logoAP
 {
     width:auto; height: 5em;
-    border-radius:  80%;
-    position: relative;
+    
+    filter: brightness(1,1);
+    mix-blend-mode: multiply;
     
 }
