@@ -1,4 +1,11 @@
 div
 {
-    background-color:antiquewhite
+    
+    background-color:white
+}
+
+app-social
+{
+    float: right;
+    margin-top: 0.5em;
 }
