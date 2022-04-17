@@ -1,11 +1,13 @@
 div
 {
     
-    background-color:#4e80ac
+    background-color:#4e80ac;
+
 }
 
 app-social
 {
     float: right;
-    margin-top: 0.5em;
+    margin-top: 10px;
+    
 }
