@@ -2,12 +2,11 @@ div
 {
     
     background-color:#4e80ac;
-
+    width: 100%;
 }
 
 app-social
 {
     float: right;
-    margin-top: 10px;
     
 }

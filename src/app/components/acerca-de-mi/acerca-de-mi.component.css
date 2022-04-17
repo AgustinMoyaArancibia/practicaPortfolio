@@ -1,32 +1,37 @@
-img
+
+
+@media (min-width: 576px)
 {
-    width: 100%;
-    border-radius: 80%;
+    #fotoPerfil
+    {
+        width: 20%;
+        border-radius: 80%;
+        position:absolute;
+        left: 5%;
+        margin-top: -13%;
+        box-shadow: 3px 3px 3px grey;
+    }
 }
 
-.row
+@media (max-width: 575px)
 {
-    padding: 20px;
+    #fotoPerfil
+    {
+        width: 40%;
+        border-radius: 80%;
+        box-shadow: 3px 3px 3px grey;
+    }
 }
+
+
 
 div
 {
-    background-color:#4e80ac;
+    /* background-color:black; */
+    background-color:#4e80ac; 
     text-align: center;
-    padding: 10px;
+    
+    width: 100% ;
 }
 
-p
-{
-    font-weight: bold;
-}
 
-#infomacion, p
-{
-    margin-top: 30px;
-}
-
-#nombre
-{
-    margin-top: 50px;
-}
