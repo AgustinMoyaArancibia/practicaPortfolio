@@ -1,4 +1,7 @@
-
+#nombre , h1
+{
+    font: 150% sans-serif;
+}
 
 @media (min-width: 576px)
 {
@@ -20,10 +23,9 @@
         width: 40%;
         border-radius: 80%;
         box-shadow: 3px 3px 3px grey;
+      
     }
 }
-
-
 
 div
 {
@@ -35,3 +37,7 @@ div
 }
 
 
+.row
+{
+    padding-top: 20px;
+}
